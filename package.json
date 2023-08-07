@@ -9,8 +9,11 @@
     "dev": "nodemon index"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andrii Likhoshva",
   "license": "ISC",
+  "dependencies": {
+    "nanoid": "^3.3.4"
+  },
   "devDependencies": {
     "nodemon": "^3.0.1"
   }
